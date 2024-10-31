@@ -1,6 +1,8 @@
 
 
-Considerando um cronograma de segunda a sexta, um prazo razoável seria entre 2 e 3 semanas para o MVP (produto mínimo viável), com funcionalidades principais como encurtamento, redirecionamento e um simples contador de cliques. Aqui está uma sugestão de como distribuir o tempo:
+Considerando um cronograma de segunda a sexta, um prazo razoável seria entre 2 e 3 semanas para o MVP (produto mínimo viável),
+com funcionalidades principais como encurtamento, redirecionamento e um simples contador de cliques. 
+Aqui está uma sugestão de como distribuir o tempo:
 
 Semana 1:
 
