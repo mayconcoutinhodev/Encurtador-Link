@@ -1,3 +1,22 @@
+
+
+Considerando um cronograma de segunda a sexta, um prazo razoável seria entre 2 e 3 semanas para o MVP (produto mínimo viável), com funcionalidades principais como encurtamento, redirecionamento e um simples contador de cliques. Aqui está uma sugestão de como distribuir o tempo:
+
+Semana 1:
+
+Planejamento e Design: Definir banco de dados, endpoints e lógica de redirecionamento e expiração.
+Setup do Ambiente e Backend Básico: Configuração inicial do projeto e criação dos endpoints para encurtar e redirecionar URLs.
+Semana 2:
+
+Banco de Dados e Regras de Validação: Implementar a tabela urls e o armazenamento das URLs com validação.
+Lógica de Expiração e Redirecionamento: Garantir que o link expire e redirecione conforme planejado.
+Semana 3:
+
+Testes e Ajustes Finais: Fazer testes básicos, ajuste de bugs e otimizações.
+Extras (se houver tempo): Adicionar contagem de cliques e opções de segurança básica (como limite de requisições por IP).
+Esse cronograma leva em conta que você tenha algumas horas diárias para o projeto, ajustando conforme sua disponibilidade.
+
+
 # Encurtador-Link
 
 1. Requisitos Funcionais
